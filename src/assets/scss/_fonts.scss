@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'Book';
+  src: url('../fonts/cir/book.eot');
+  src: url('../fonts/cir/book.woff') format('woff'), url('../fonts/cir/book.ttf') format('truetype'), url('../fonts/cir/book.svg') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Book Italic';
+  src: url('../fonts/cir/bookitalic.eot');
+  src: url('../fonts/cir/bookitalic.woff') format('woff'), url('../fonts/cir/bookitalic.ttf') format('truetype'), url('../fonts/cir/bookitalic.svg') format('svg');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Medium';
+  src: url('../fonts/cir/medium.eot');
+  src: url('../fonts/cir/medium.woff') format('woff'), url('../fonts/cir/medium.ttf') format('truetype'), url('../fonts/cir/medium.svg') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Medium Italic';
+  src: url('../fonts/cir/mediumitalic.eot');
+  src: url('../fonts/cir/mediumitalic.woff') format('woff'), url('../fonts/cir/mediumitalic.ttf') format('truetype'), url('../fonts/cir/mediumitalic.svg') format('svg');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Bold';
+  src: url('../fonts/cir/bold.eot');
+  src: url('../fonts/cir/bold.woff') format('woff'), url('../fonts/cir/bold.ttf') format('truetype'), url('../fonts/cir/bold.svg') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Bold Italic';
+  src: url('../fonts/cir/bolditalic.eot');
+  src: url('../fonts/cir/bolditalic.woff') format('woff'), url('../fonts/cir/bolditalic.ttf') format('truetype'), url('../fonts/cir/bolditalic.svg') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
