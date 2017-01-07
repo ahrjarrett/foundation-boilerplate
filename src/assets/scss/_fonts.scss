@@ -45,3 +45,31 @@
   font-weight: 700;
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'Serif';
+  src: url('../fonts/schola/schola-regular.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Serif Italic';
+  src: url('../fonts/schola/schola-italic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Bold Serif';
+  src: url('../fonts/schola/schola-bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Bold Serif Italic';
+  src: url('../fonts/schola/schola-bolditalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
